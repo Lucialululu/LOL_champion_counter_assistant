@@ -120,9 +120,9 @@ Then create an empty folder named `data` in the root of the project and then go 
 
 > [!IMPORTANT]
 >
-> Do not share or publish the collected dataset
-> Keep your API key private at all times
-> The `.env` file is ignored by Git to prevent accidental exposure
+> * Do not share or publish the collected dataset
+> * Keep your API key private at all times
+> * The `.env` file is ignored by Git to prevent accidental exposure
 
 So maybe the beginning was a bit of a "bait", this program is not really ready to be used out of the box, but I hope that with some effort, you can get it up and running and find it useful!
 

@@ -80,7 +80,7 @@ $$
 
 Basically, the higher the better, and if negative, it means the champion is actually a bad counter (winrate below 50%).
 
-[!NOTE]
+> [!NOTE]
 > ## Below is something very important that you must know about the data:
 
 ## Data requirements

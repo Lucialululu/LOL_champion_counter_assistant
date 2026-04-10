@@ -7,13 +7,19 @@ This is program designed to find best champion counters given what champions the
 
 ## How do I run the app?
 
-Simply type `python main.py` in the terminal, while making sure that your current working directory is the root of the project, and you have the required libraries installed. You can get required dependencies by running:
+Start by activating the virtual environment. You can get required dependencies by running the following, while making sure you are in the root of the project:
 
 ```bash
 uv sync
 ```
 
-And everything should be installed (I hope, I have not tested this yet, but it should work). Then, you just follow the prompts to input your role and the enemy champions, and the app will give you the top five highest scoring counters!
+And everything should be installed (I hope, I have not tested this yet, but it should work). Then, activate the virtual environment:
+
+```bash
+source .venv/bin/activate
+```
+
+Next, simply type `python main.py` in the terminal. From here, you just follow the prompts to input your role and the enemy champions, and the app will give you the top five highest scoring counters!
 
 **Example:**
 
